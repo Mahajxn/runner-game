@@ -1,0 +1,28 @@
+body{
+  background-image: url(https://previews.agefotostock.com/previewimage/medibigoff/4bfbe5bfc0483d8b01ef516b71ee121d/esy-042305040.jpg);
+}
+canvas{
+  border: dashed;
+  margin-top:50px;
+  margin-left: 300px;
+}
+.head{
+  background-color: ivory;
+  margin-left: 200px;
+  margin-right: 200px;
+  border:dashed;
+  font-family: 'Comic Sans MS';
+  text-align: center;
+  font-size:larger;
+  border-radius: 30px;
+}
+.trex{
+  background-color: ivory;
+  margin-left: 200px;
+  margin-right: 200px;
+  border:dashed;
+  font-family: 'Comic Sans MS';
+  text-align: center;
+  font-size:small;
+  margin-top:30px
+}
